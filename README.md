@@ -17,8 +17,8 @@ Airspace is a clean, unique, and free bootstrap website template. The template i
 ## Download And installation
 Download this template from any following options:
 
-* Download from [Github](https://github.com/themefisher/Airspace-Creative-Agency-Template/archive/master.zip)
-* Clone the repository: `git clone https://github.com/themefisher/Airspace-Creative-Agency-Template.git`
+* Download from [Github](https://github.com/themefisher/Airspace-Bootstrap-Agency-Template/archive/master.zip)
+* Clone the repository: `git clone https://github.com/themefisher/Airspace-Bootstrap-Agency-Template.git`
 * Download from [Themefisher](https://themefisher.com/products/airspace-free-bootstrap-website-template/)
 
 
@@ -55,8 +55,8 @@ After that, it will open up a preview of the template in your default browser, w
 
 <!-- reporting issue -->
 ## Reporting Issues
-We use GitHub Issues as the official bug tracker for the Airspace Template. Please Search [existing issues](https://github.com/themefisher/Airspace-Creative-Agency-Template/issues). It’s possible someone has already reported the same problem.
-If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/themefisher/Airspace-Creative-Agency-Template/issues).
+We use GitHub Issues as the official bug tracker for the Airspace Template. Please Search [existing issues](https://github.com/themefisher/Airspace-Bootstrap-Agency-Template/issues). It’s possible someone has already reported the same problem.
+If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/themefisher/Airspace-Bootstrap-Agency-Template/issues).
 
 <!-- support -->
 ## Technical Support or Questions (Paid)
@@ -66,6 +66,6 @@ If you have questions or need help integrating the product please [contact us](m
 ## License
 Copyright &copy; 2020 Designed & Developed by [Themefisher](https://themefisher.com)
 
-**Code License:** Released under the [MIT](https://github.com/themefisher/Airspace-Creative-Agency-Template/blob/master/LICENSE) license.
+**Code License:** Released under the [MIT](https://github.com/themefisher/Airspace-Bootstrap-Agency-Template/blob/master/LICENSE) license.
 
 **Image license:** The images are only for demonstration purposes. They have their own licence, we don't have permission to share those image.
