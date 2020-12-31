@@ -1,32 +1,71 @@
-# Airspace - Free Bootstrap Agency Template
-
-Airspace is a clean, unique, and free bootstrap website template is an another amazing contribution to the community by Thermefisher. The beautiful template is built with refined business as well as corporate elements and saturated with rich typography, allows to convey perfect message to the first visit according to the niche motto.
-
-<img src="https://cloud.githubusercontent.com/assets/10640964/24954873/edf64134-1fa2-11e7-8a89-9424ddd15d29.jpg" alt="Free bootstrap agency template by themefisher">
-
-**NOTE:** Please remember to **STAR** this project and **FOLLOW** [my Github](https://github.com/themefisher) to keep you update with this template.
-
-## Demo & Download 
-
-A fully functional demo is available at <a href="http://demo.themefisher.com/demos/?theme=airspace">Demo</a>
-You can visit our website to download this theme <a href="https://themefisher.com/products/airspace-free-bootstrap-website-template/">Download Now</a>
- 
+# Airspace By Themefisher
+Airspace is a clean, unique, and free bootstrap website template. The template is built with refined business as well as corporate elements and saturated with rich typography, allows to convey perfect message to the first visit according to the niche motto.
 
 
-## Bugs Reports
+<!-- demo -->
+## Example Site
+| [![](screenshots/homepage.png)](https://demo.themefisher.com/themefisher/airspace/) | [![](screenshots/about.png)](https://demo.themefisher.com/themefisher/airspace/about.html) | [![](screenshots/service.png)](https://demo.themefisher.com/themefisher/airspace/service.html) |
+|:---:|:---:|:---:|
+| **Homepage**  | **About**  | **Service**  |
+| [![](screenshots/portfolio.png)](https://demo.themefisher.com/themefisher/airspace/portfolio.html) | [![](screenshots/blog-r.png)](https://demo.themefisher.com/themefisher/airspace/blog-right-sidebar.html) | [![](screenshots/soon.png)](https://demo.themefisher.com/themefisher/airspace/coming-soon.html) |
+| **Portfolio** | **Blogs** | **Coming Soon** |
 
-Have a bug or a feature request? Please open a new issue.
-
-## Copyright and license
-
-Copyright 2017 themefisher.com, <a target="_blank" href="https://themefisher.com/license">License</a>
-
-## Support Themefisher Development
-Themelight is an MIT licensed open source project and completely free to use. However, the amount of effort needed to maintain and develop new features for the project is not sustainable without proper financial backing. You can support development by buying one of our [premium templates](https://themefisher.com/premium-templates/).
+👉🏻[View Live Preview](https://demo.themefisher.com/themefisher/airspace/)
 
 
-### Check out our FREE Bootstrap & HTML5 Templates
-Get More FREE Bootstrap templates from our store <a href="https://themefisher.com/free-bootstrap-templates">Bootstrap Templates Store</a>
-And if you want FREE HTML5 Templates then please visit our listing content <a href="https://themefisher.com/best-free-html5-templates-2016/">HTML5 Templates</a>
-Visit Our Website For More Amazing Works
-<a href="https://themefisher.com">Website</a>
+<!-- download -->
+## Download And installation
+Download this template from any following options:
+
+* Download from [Github](https://github.com/themefisher/Airspace-Creative-Agency-Template/archive/master.zip)
+* Clone the repository: `git clone https://github.com/themefisher/Airspace-Creative-Agency-Template.git`
+* Download from [Themefisher](https://themefisher.com/products/airspace-free-bootstrap-website-template/)
+
+
+<!-- installation -->
+### Basic Usage
+After downloading template, you can simply edit the HTML and CSS files from the `theme` folder. To preview the changes you make to the code, you can open the index.html file in your web browser.
+
+### Advanced Usage
+For advanced usage you have some dependencies to install. Then you can run it on your localhost. You can view the package.json file to see which scripts are included.
+
+#### Install Dependencies
+* **Node Installation:** [Install node js](https://nodejs.org/en/download/)
+* **Gulp Installation:** Install gulp globally from your terminal 
+```
+npm install --global gulp-cli
+```
+Or visit original [docs](https://gulpjs.com/docs/en/getting-started/quick-start)
+
+#### Run Theme
+After succesfully install those dependencies, open this theme with any IDE [[VS Code](https://code.visualstudio.com/) recommended], and then open internal terminal of IDE [vs code shortcut <code>ctrl/cmd+\`</code>]
+
+* Install node package modules
+```
+npm install
+```
+* Run gulp
+```
+gulp
+```
+After that, it will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved.
+
+👉🏻 [visit documentation](https://docs.themefisher.com/airspace/)
+
+
+<!-- reporting issue -->
+## Reporting Issues
+We use GitHub Issues as the official bug tracker for the Airspace Template. Please Search [existing issues](https://github.com/themefisher/Airspace-Creative-Agency-Template/issues). It’s possible someone has already reported the same problem.
+If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/themefisher/Airspace-Creative-Agency-Template/issues).
+
+<!-- support -->
+## Technical Support or Questions (Paid)
+If you have questions or need help integrating the product please [contact us](mailto:mehedi@themefisher.com) instead of opening an issue.
+
+<!-- licence -->
+## License
+Copyright &copy; 2020 Designed & Developed by [Themefisher](https://themefisher.com)
+
+**Code License:** Released under the [MIT](https://github.com/themefisher/Airspace-Creative-Agency-Template/blob/master/LICENSE) license.
+
+**Image license:** The images are only for demonstration purposes. They have their own licence, we don't have permission to share those image.

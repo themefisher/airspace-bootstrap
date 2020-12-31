@@ -1,0 +1,27 @@
+@@include('header.htm')
+
+@@include('blocks/navigation.htm', {"blog":"active", "blogRS":"active"})
+
+@@include('blocks/page-title.htm', {
+"title": "Blog Right Sidebar",
+"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, quibusdam."
+})
+
+<div class="page-wrapper">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-8">
+					@@include('blocks/blog-posts.htm')
+				</div>
+				<div class="col-lg-4">
+					<div class="pl-0 pl-xl-4">
+						@@include('blocks/post-sidebar.htm')
+					</div>
+				</div>
+		</div>
+	</div>
+</div>
+
+@@include('blocks/footer.htm')
+
+@@include('footer.htm')

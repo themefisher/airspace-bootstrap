@@ -1,0 +1,106 @@
+.service {
+  text-align: center;
+  padding: 90px 0;
+
+  .service-item {
+    padding-bottom: 30px;
+
+    i {
+      font-size: 60px;
+      color: $primary-color;
+    }
+
+    h4 {
+      padding-top: 15px;
+      margin: 0;
+      font-weight: 500;
+      text-transform: uppercase;
+    }
+
+    p {
+      padding-top: 10px;
+      margin: 0;
+    }
+  }
+}
+
+.dark-service {
+  .title {
+    color: $light;
+  }
+
+  .service-item {
+    text-align: center;
+    padding: 0 10px;
+    padding-top: 30px;
+    @include mobile {
+      padding: 0;
+      padding-top: 30px;
+    }
+
+    i {
+      font-size: 50px;
+      color: $light;
+    }
+
+    h4 {
+      color: $light;
+      padding-top: 15px;
+      margin: 0;
+      font-weight: 500;
+      text-transform: uppercase;
+      margin-bottom: 5px;
+    }
+
+    p {
+      padding-top: 10px;
+      margin: 0;
+    }
+  }
+}
+
+.service-about {
+  p {
+    line-height: 28px;
+  }
+}
+
+.service-arrow {
+  .block {
+    padding: 70px 30px;
+    text-align: center;
+
+    @include mobile {
+      padding: 60px 10px;
+    }
+
+    i {
+      font-size: 40px;
+      display: inline-block;
+      margin-bottom: 15px;
+    }
+
+    p {
+      color: $light;
+      margin-bottom: 0;
+    }
+
+    h3 {
+      font-size: 24px;
+    }
+  }
+}
+
+.service-list {
+  .block {
+    padding: 30px;
+    margin-bottom: 20px;
+    background: $light;
+    @include mobile {
+      padding: 30px 20px;
+    }
+    p {
+      margin-bottom: 0;
+    }
+  }
+}

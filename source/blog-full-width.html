@@ -1,0 +1,23 @@
+@@include('header.htm')
+
+@@include('blocks/navigation.htm', {"blog":"active", "blogFW":"active"})
+
+@@include('blocks/page-title.htm', {
+  "title": "Blog Full Width",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis, ex!"
+})
+
+
+<div class="page-wrapper">
+	<div class="container">
+		<div class="row justify-content-center">
+			<div class="col-lg-10">
+				@@include('blocks/blog-posts.htm')
+			</div>
+		</div>
+	</div>
+</div>
+
+@@include('blocks/footer.htm')
+
+@@include('footer.htm')
