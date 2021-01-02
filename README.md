@@ -7,8 +7,10 @@ Airspace is a clean, unique, and free bootstrap website template. The template i
 | [![](screenshots/homepage.png)](https://demo.themefisher.com/themefisher/airspace/) | [![](screenshots/about.png)](https://demo.themefisher.com/themefisher/airspace/about.html) | [![](screenshots/service.png)](https://demo.themefisher.com/themefisher/airspace/service.html) |
 |:---:|:---:|:---:|
 | **Homepage**  | **About**  | **Service**  |
-| [![](screenshots/portfolio.png)](https://demo.themefisher.com/themefisher/airspace/portfolio.html) | [![](screenshots/blog-r.png)](https://demo.themefisher.com/themefisher/airspace/blog-right-sidebar.html) | [![](screenshots/soon.png)](https://demo.themefisher.com/themefisher/airspace/coming-soon.html) |
-| **Portfolio** | **Blogs** | **Coming Soon** |
+| [![](screenshots/portfolio.png)](https://demo.themefisher.com/themefisher/airspace/portfolio.html) | [![](screenshots/pricing.png)](https://demo.themefisher.com/themefisher/airspace/pricing.html) | [![](screenshots/blog-r.png)](https://demo.themefisher.com/themefisher/airspace/blog-right-sidebar.html) |
+| **Portfolio** | **Pricing** | **Blogs** |
+| [![](screenshots/contact.png)](https://demo.themefisher.com/themefisher/airspace/contact.html) | [![](screenshots/soon.png)](https://demo.themefisher.com/themefisher/airspace/coming-soon.html) | [![](screenshots/404.png)](https://demo.themefisher.com/themefisher/airspace/404.html) |
+| **Contact** | **Coming Soon** | **404** |
 
 👉🏻[View Live Preview](https://demo.themefisher.com/themefisher/airspace/)
 
@@ -64,8 +66,21 @@ If you have questions or need help integrating the product please [contact us](m
 
 <!-- licence -->
 ## License
-Copyright &copy; 2020 Designed & Developed by [Themefisher](https://themefisher.com)
+Copyright &copy; 2021 Designed & Developed by [Themefisher](https://themefisher.com)
 
 **Code License:** Released under the [MIT](https://github.com/themefisher/Airspace-Bootstrap-Agency-Template/blob/master/LICENSE) license.
 
 **Image license:** The images are only for demonstration purposes. They have their own licence, we don't have permission to share those image.
+
+<!-- resources -->
+## Resources
+Some third-party plugins that we used to build this template. Please check their licence.
+* **Bootstrap v4.5**: https://getbootstrap.com/docs/4.5/getting-started/introduction/
+* **Jquery v3.5.1**: https://jquery.com/download/
+* **Ionicons Icons v2.0**: https://ionicons.com/v2/
+* **Google Fonts**: http://fonts.google.com/
+* **Animate CSS**: https://animate.style/
+* **Magnific Popup**: https://dimsemenov.com/plugins/magnific-popup/
+* **Slick**: https://kenwheeler.github.io/slick/
+* **Shuffle**: https://vestride.github.io/Shuffle/
+* **SyoTimer**: http://syomochkin.xyz/folio/syotimer/demo.html
