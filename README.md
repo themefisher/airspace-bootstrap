@@ -14,6 +14,24 @@ Airspace is a clean, unique, and free bootstrap website template. The template i
 
 👉🏻[View Live Preview](https://demo.themefisher.com/themefisher/airspace/)
 
+<!-- resources -->
+## Pages
+* **Homepage**
+* **About**
+* **Service**
+* **Portfolio**
+* **Portfolio Dingle**
+* **Pricing**
+* **Blog Grid**
+* **Blog Full Width**
+* **Blog Left Sidebar**
+* **Blog Right Sidebar**
+* **Blog Single**
+* **Contact**
+* **FAQ**
+* **404**
+* **Coming Soon**
+
 
 <!-- download -->
 ## Download And installation
