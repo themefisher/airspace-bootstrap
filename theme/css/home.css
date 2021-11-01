@@ -1,3 +1,10 @@
+/**
+ * WEBSITE: https://themefisher.com
+ * TWITTER: https://twitter.com/themefisher
+ * FACEBOOK: https://www.facebook.com/themefisher
+ * GITHUB: https://github.com/themefisher/
+ */
+
 .hero-area {
   height: 650px;
   display: flex;
@@ -14,19 +21,16 @@
   background-size: cover;
   background-attachment: fixed;
 }
-
 .hero-area .block {
   position: relative;
   z-index: 999999;
 }
-
 .hero-area h1 {
   font-size: 100px;
   font-weight: 700;
   margin-bottom: 15px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
-
 .hero-area p {
   font-size: 20px;
   line-height: 32px;
@@ -42,11 +46,9 @@
   border-radius: 2px;
   position: relative;
 }
-
 .template-item:hover img {
   opacity: 0.7;
 }
-
 .template-item .ticker {
   position: absolute;
   right: 10px;
@@ -63,17 +65,14 @@
   font-weight: 700;
   background: #4be6e6;
 }
-
 .template-item a {
   box-shadow: 0 15px 45px -9px rgba(0, 0, 0, 0.25);
   display: block;
 }
-
 .template-item a img {
   border-radius: 5px;
-  transition: .3s all;
+  transition: 0.3s all;
 }
-
 .template-item h4 {
   margin-top: 20px;
   margin-bottom: 5px;
@@ -127,7 +126,6 @@
   display: block;
   width: 10px;
   height: 10px;
-  -webkit-transform: rotate(45deg);
   transform: rotate(45deg);
   transform: rotate(45deg);
   border-right: 2px solid #fff;
@@ -139,7 +137,6 @@
   height: 40px;
   width: 22px;
   border-radius: 10px;
-  -webkit-transform: none;
   transform: none;
   border: 2px solid #ffffff;
   top: 170px;
@@ -162,28 +159,24 @@
 @-webkit-keyframes animated-mouse {
   0% {
     opacity: 1;
-    -webkit-transform: translateY(0);
     transform: translateY(0);
   }
   100% {
     opacity: 0;
-    -webkit-transform: translateY(6px);
     transform: translateY(6px);
   }
 }
-
 @-webkit-keyframes mouse-scroll {
   0% {
     opacity: 1;
   }
   50% {
-    opacity: .5;
+    opacity: 0.5;
   }
   100% {
     opacity: 1;
   }
 }
-
 @keyframes mouse-scroll {
   0% {
     opacity: 0;
@@ -195,7 +188,6 @@
     opacity: 1;
   }
 }
-
 footer {
   background: #01252d;
   padding: 30px 0;
@@ -219,9 +211,8 @@ footer a:hover {
 .overly {
   position: relative;
 }
-
 .overly:before {
-  content: '';
+  content: "";
   background: rgba(0, 0, 0, 0.51);
   position: absolute;
   top: 0;
@@ -229,5 +220,4 @@ footer a:hover {
   right: 0;
   bottom: 0;
 }
-
 /*# sourceMappingURL=home.css.map */
